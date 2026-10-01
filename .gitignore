@@ -1,0 +1,6 @@
+build/
+cmake-build-*/
+*.o
+*.a
+/emailsender.conf
+*.eml
